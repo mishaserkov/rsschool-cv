@@ -1,8 +1,8 @@
 # Misha Serkov
 
 ## Contacts
-**Location:** Earth
-**Email:**  test@test.com
+**Location:** Earth  
+**Email:**  test@test.com  
 **Telegram:** @test
 
 ## About me
