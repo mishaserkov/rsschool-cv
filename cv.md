@@ -1,9 +1,8 @@
 # Misha Serkov
 
 ## Contacts
-**Location:** Earth  
-**Email:**  test@test.com  
-**Telegram:** @test
+**Location:** Yerevan, Armenia
+**Telegram:** @krvstk
 
 ## About me
 I'm a very passionate person. I like to discover something new and study exciting stuff. Right now, I'm learning frontend development.
