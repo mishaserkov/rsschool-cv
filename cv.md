@@ -19,7 +19,25 @@ Frontend development just for hobby
 * VS Code, Sublime text
 * Figma
 
-## Languages
+## Code example
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+```
+
+## Portfolio
+https://mishaserkov.github.io/rsschool-cv/cv
+
+## Education
+
+2007 — 2012 Russian Academy of Justice (Jurisprudence)
+
+Languages:
 * English — B2
 * Russian — native
-

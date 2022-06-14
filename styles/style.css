@@ -1,0 +1,38 @@
+.wrapper {
+    margin: 0 auto;
+}
+
+h2{
+    color: blueviolet;
+}
+
+.img {
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.rsschool_logo {
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: left;
+}
+
+h1{
+    padding-left: 25px;
+}
+
+footer{
+    height: 100px;
+    background-color: gray;
+}
