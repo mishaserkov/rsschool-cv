@@ -42,3 +42,8 @@ The code then demonstrates an example usage by calculating the factorial of the 
 ## Education
 * HTML Academy
 * RS School
+
+## Languages
+* Russian — native
+* English — B2
+* Spanish — A1
