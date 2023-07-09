@@ -38,3 +38,7 @@ console.log(`The factorial of ${number} is ${result}`);
 In this code, the calculateFactorial function takes a number as input and calculates its factorial using a simple iterative approach. It first checks if the input number is either 0 or 1, in which case it returns 1 since the factorial of 0 and 1 is defined as 1. Otherwise, it initializes a variable factorial to 1 and iterates from 2 up to the input number, multiplying factorial by each number in the loop. Finally, it returns the calculated factorial.
 
 The code then demonstrates an example usage by calculating the factorial of the number 5 and logging the result to the console.
+
+## Education
+* HTML Academy
+* RS School
