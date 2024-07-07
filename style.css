@@ -1,1 +1,125 @@
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+@font-face {
+    font-family: Archivo;
+    src: url("assets/fonts/ArchivoBlack-Regular.ttf");
+  }
+
+@font-face {
+    font-family: Montserrat;
+    src: url("assets/fonts/Montserrat-SemiBold.ttf");
+  }
+
+  @font-face {
+    font-family: Space;
+    src: url("assets/fonts/SpaceMono-Regular.ttf");
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: Space;
+    src: url("assets/fonts/SpaceMono-Bold.ttf");
+    font-weight: bold;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #C6ECA7;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    color: black;
+  }
+
+  a {
+    color: black;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 100px;
+    font-family: Archivo, sans-serif;
+    line-height: 75%;
+  }
+
+  .section-title {
+    font-size: 30px;
+    font-family: Space;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+
+ p, ul {
+    font-size: 20px;
+    font-family: Space;
+    font-weight: normal;
+    padding: 0;
+  }
+
+  ul {
+    margin-left: 40px;
+  }
+
+ li {
+    margin-left: -20px;
+}
+  .rs-school-logo {
+    height: 35px;
+  }
+
+  .github-logo {
+    height: 35px;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+  }
+  
+  .avatar {
+    height: 400px;
+  }
+
+  code {
+    background-color: #FAFBF8;
+    padding: 20px;
+  }
+
