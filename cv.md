@@ -28,7 +28,7 @@ I am a goal-oriented and versatile individual with a strong desire to continuous
 
 ### Courses
 * Moscoding school
-* RS SCHOOL Stage 0 (in progress)
+* RS SCHOOL Stage 0
 
 ### Languages
 * English — Intermediate/Upper-intermediate
