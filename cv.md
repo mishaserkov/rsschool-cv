@@ -10,7 +10,7 @@
 I am a goal-oriented and versatile individual with a strong desire to continuously explore and understand the world. My strengths include a high sense of responsibility, excellent interpersonal skills, and a results-driven mindset. I am dedicated to becoming a frontend developer and am committed to achieving success in this field through continuous learning and development.
 
 ### Skills:
-* HTML5, CSS
+* HTML5, CSS, Javascript
 * Git, Github
 * VS Code
 * Figma
